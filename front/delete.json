@@ -1,0 +1,68 @@
+[
+  {
+    "id": 23,
+    "user_id": "test1",
+    "is_finished": false,
+    "started_at": "2025-06-13T23:26:17.349Z",
+    "details": [
+      {
+        "recorded_at": "2025-06-13T23:26:17.349Z",
+        "latitude": 49.835382,
+        "longitude": 24.008989,
+        "speed": 3.4,
+        "tilt_angle": 2
+      },
+      {
+        "recorded_at": "2025-06-13T23:26:22.676Z",
+        "latitude": 49.83541,
+        "longitude": 24.008991,
+        "speed": 2.5,
+        "tilt_angle": 1
+      },
+      {
+        "recorded_at": "2025-06-13T23:26:27.936Z",
+        "latitude": 49.835473,
+        "longitude": 24.009049,
+        "speed": 0,
+        "tilt_angle": 0
+      },
+      {
+        "recorded_at": "2025-06-13T23:26:33.188Z",
+        "latitude": 49.835569,
+        "longitude": 24.009081,
+        "speed": 2.9,
+        "tilt_angle": 0
+      },
+      {
+        "recorded_at": "2025-06-13T23:26:38.439Z",
+        "latitude": 49.835696,
+        "longitude": 24.009115,
+        "speed": 4.2,
+        "tilt_angle": 0
+      },
+      {
+        "recorded_at": "2025-06-13T23:26:45.134Z",
+        "latitude": 49.835686,
+        "longitude": 24.009084,
+        "speed": 4.1,
+        "tilt_angle": 0
+      },
+      {
+        "recorded_at": "2025-06-13T23:26:50.392Z",
+        "latitude": 49.835684,
+        "longitude": 24.009041,
+        "speed": 3.2,
+        "tilt_angle": 0
+      },
+      {
+        "recorded_at": "2025-06-13T23:26:55.633Z",
+        "latitude": 49.835821,
+        "longitude": 24.009053,
+        "speed": 2.6,
+        "tilt_angle": 0
+      }
+    ]
+  }
+]
+
+npm install -g expo-cli
